@@ -99,6 +99,6 @@ Quando pedi para levar arquivos a uma pasta de assets, ele não consegue fazer f
 
 ## Conclusão
 
-O Github Copilot é uma ferramenta que eu já uso a mais de 10 meses, até então eu havia usado mais no intellij, mas tenho me surpeendido com o uso dos plugins para o intellij. Eu uso no dia a dia para fazer alguma engenharia reversa, já que tem como ele analisar o código e as classes anexadas no chat. Uso também para fazer documentações técnicas, pois ele é muito preciso para criar todo o roteiro, e seguir o fluxo. Mas claro, tudo isso exige também dedicação de prompt, quanto melhor descrito, e explicado, melhores serão as respostas! 
+O Github Copilot é uma ferramenta que eu já uso a mais de 10 meses, até então eu havia usado mais no intellij, mas tenho me surpeendido com o uso da ferramenta no vscode. Eu uso no dia a dia para fazer alguma engenharia reversa, já que tem como ele analisar o código e as classes anexadas no chat. Uso também para fazer documentações técnicas, pois ele é muito preciso para criar todo o roteiro, e seguir o fluxo. Mas claro, tudo isso exige também dedicação de prompt, quanto melhor descrito, e explicado, melhores serão as respostas! 
 
 
