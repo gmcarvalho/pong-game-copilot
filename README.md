@@ -82,16 +82,20 @@ Quando pedi para levar arquivos a uma pasta de assets, ele não consegue fazer f
 ### Aprimorando com centralização, responsividade e rouds de jogo
 
 - Centralizando o jogo
+
 ![centralizar](https://github.com/user-attachments/assets/f76c39d4-00b9-486a-a972-7d397350c44b)
 
 - Adicionando placar
+
 ![placar](https://github.com/user-attachments/assets/1c1dba58-6f6a-4cc7-b556-e1b7c30ef9fa)
 
 - Adicionando rounds 
 
 ![c round](https://github.com/user-attachments/assets/1ea46c64-0288-4e3b-b5e4-b984293e488f)
 
+
 ![c round2](https://github.com/user-attachments/assets/38c3c3ff-fb96-4abb-99b6-af3b959850da)
+
 
 ## Conclusão
 
